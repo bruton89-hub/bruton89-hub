@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Alphonso Bruton 👋
 
-<!--
-**bruton89-hub/bruton89-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Founder @ Momentum App LLC
 
-Here are some ideas to get you started:
+I'm building software that helps athletes gain exposure, compete, and connect through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Projects
+
+### 🏈 Momentum
+A sports platform built to help athletes showcase their talent, compete in highlight battles, and gain exposure.
+
+**Tech**
+- React Native
+- Expo
+- TypeScript
+- Firebase
+- Firestore
+- Cloud Functions
+
+---
+
+### 🏭 C3S System
+Production management software designed to improve thermal processing, QA, and packaging workflows.
+
+---
+
+## 💻 Tech Stack
+
+- TypeScript
+- React Native
+- Firebase
+- Firestore
+- Expo
+- JavaScript
+- Git
+- GitHub
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Launch Momentum publicly
+- 👥 Grow the Momentum community
+- 📈 Continue improving as a software engineer
+- 🤝 Build products that solve real-world problems
+
+---
+
+## 📫 Connect
+
+Building every day.
